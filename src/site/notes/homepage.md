@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
 
@@ -11,8 +11,9 @@
 ### Topics of Interest
 - [[notes/dtse-summary\|Digital Transformation of Systems Engineering (DTSE)]]
 - Knowledge Management (KM)
-- Holistic Philosophy and Theology
+- Tabletop Roleplaying Games (TTRPGs) 
+- Creative writing, cybertext, and digital pedagogy
 
 --- 
 
-**neonowl.website** is powered by Obsidian, GitHub, and Netlify.
+**neonowl.website** is powered by Obsidian, GitHub, and Netlify. Isn't that special?
