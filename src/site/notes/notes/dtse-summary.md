@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/notes/dtse-summary/"}
 ---
 
+_I generated this summary of DTSE using ChatGPT. It's a solid general boilerplate to use as a starting point for research and writing. _
+
+---
 
 ### Summary
 Digital transformation refers to the integration of digital technology into all areas of a business, fundamentally changing how the business operates and delivers value to customers. In the context of systems engineering, digital transformation involves the use of digital technologies to design, develop, and operate systems more efficiently and effectively.
@@ -16,7 +19,6 @@ Some examples of how digital transformation can impact systems engineering inclu
     
 4.  Enhanced monitoring and control: Digital technologies can be used to monitor and control systems in real-time, allowing for timely adjustments and better performance.
     
-
 Overall, digital transformation can help systems engineering teams to be more productive, efficient, and effective in their work, resulting in improved systems and better outcomes for businesses and customers.
 
 
