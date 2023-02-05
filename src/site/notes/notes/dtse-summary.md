@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/notes/dtse-summary/"}
 ---
 
-_I generated this summary of DTSE using ChatGPT. It's a solid general boilerplate to use as a starting point for research and writing. _
+
+*This Topic Summary is a hub for further exploration & analysis of the subject, related contexts, and knowledge domains of the Digital Transformation of Systems Engineering. This "pre-draft" ("boilerplate", "verbiage", "copy", "snippet") is an excerpt from a Q&A session with ChatGPT, which is an Artificial Intelligence (A.I.) chatbot interface to a model of "common knowledge" trained on numerous sources from the English-language internet through 2021 (citation). The type of language model is proficient at answering natural language requests to transform writing by creatively mixing genres, tropes, and styles to produce novel twists on common writing formats.*
 
 ---
 
-### Summary
+## DTSE Topic Summary
 Digital transformation refers to the integration of digital technology into all areas of a business, fundamentally changing how the business operates and delivers value to customers. In the context of systems engineering, digital transformation involves the use of digital technologies to design, develop, and operate systems more efficiently and effectively.
 
 Some examples of how digital transformation can impact systems engineering include:
@@ -21,4 +22,16 @@ Some examples of how digital transformation can impact systems engineering inclu
     
 Overall, digital transformation can help systems engineering teams to be more productive, efficient, and effective in their work, resulting in improved systems and better outcomes for businesses and customers.
 
+### "Digital Transformation in Systems Engineering": A Cyberpunk Story
 
+In a world where technology was advancing at an unprecedented pace, digital transformation was becoming increasingly important for businesses of all sizes. It was a way to integrate digital technologies into all aspects of a business, fundamentally changing how the business operated and delivered value to customers.
+
+And in the world of systems engineering, digital transformation was revolutionizing the way systems were designed, developed, and operated. Using digital images, systems engineers were able to create 3D models of physical objects and environments, extract valuable information using computer vision algorithms, and create detailed, accurate models using photogrammetry. They were able to use augmented reality to create immersive simulations and training experiences.
+
+That was merely the beginning. With the introduction of digital twin and digital thread technology, systems engineers were able to create and manage digital representations of physical systems throughout their lifecycle. This enabled them to design, develop, and operate systems more efficiently, improve performance, and reduce the risk of errors.
+
+As the world continued to evolve and technology advanced, the possibilities for digital transformation in systems engineering were endless. And with each new innovation, the way we understood and interacted with the world around us was forever changed.
+
+
+## References
+ChatGPT. How to cite?
