@@ -3,7 +3,9 @@
 ---
 
 
-*This Topic Summary is a hub for further exploration & analysis of the subject, related contexts, and knowledge domains of the Digital Transformation of Systems Engineering. This "pre-draft" ("boilerplate", "verbiage", "copy", "snippet") is an excerpt from a Q&A session with ChatGPT, which is an Artificial Intelligence (A.I.) chatbot interface to a model of "common knowledge" trained on numerous sources from the English-language internet through 2021 (citation). The type of language model is proficient at answering natural language requests to transform writing by creatively mixing genres, tropes, and styles to produce novel twists on common writing formats.*
+*This Topic Summary is a hub for further exploration & analysis of the subject, related contexts, and knowledge domains of the Digital Transformation of Systems Engineering (DTSE). This "pre-draft" ("boilerplate", "verbiage", "copy", "snippet") is an excerpt from a Q&A session with ChatGPT, which is an Artificial Intelligence (A.I.) chatbot interface to a model of "common knowledge" trained on numerous sources from the English-language internet through 2021 (citation needed). The type of language model is proficient in answering natural language requests to transform writing by mixing genres, tropes, and styles that produce novel twists on established writing formats.* 
+
+*In the example below, I present a summary of DTSE and the same information transformed into a story using cyberpunk genre tropes, which ChatGPT produced at my request. In the future, I will refine and expand on this writing, including cross referencing and citing sources from the Systems Engineering Body of Knowledge and other reading.
 
 ---
 
@@ -34,4 +36,4 @@ As the world continued to evolve and technology advanced, the possibilities for 
 
 
 ## References
-ChatGPT. How to cite?
+ChatGPT. (2022, Dec 30). "Digital Transformation of Systems Engineering"  Retrieved from chat.openai.com/chat
